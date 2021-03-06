@@ -1,7 +1,7 @@
 # mmarketdemomipymes
-DEmo minimarketpara MIPYMES
+Demo minimarketpara MIPYMES
 Se tiene las siguientes caracteristicas:
--UTiliza JavaEE
--IDE Eclipse
-Wildfly
-Postgresql
+- Utiliza JavaEE
+- IDE Eclipse
+- Wildfly
+- Postgresql
